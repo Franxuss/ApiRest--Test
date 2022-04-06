@@ -1,0 +1,14 @@
+response/Result.java
+ response.Result
+response/Location.java
+ response.Location
+response/Origin.java
+ response.Origin
+response/RickAndMortyResponse.java
+ response.RickAndMortyResponse
+service/RickAndMortyClient.java
+ service.RickAndMortyClient
+service/RickAndMortyService.java
+ service.RickAndMortyService
+response/Info.java
+ response.Info
